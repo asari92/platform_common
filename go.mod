@@ -1,6 +1,6 @@
 module github.com/asari92/platform_common
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/georgysavva/scany v1.2.3
